@@ -1,0 +1,48 @@
+.body {
+    /*margin: 0 auto 10px;*/
+    display: block;
+    margin: 0;
+    padding: 25px;
+}
+
+.header {
+    width: 100%;
+    height: 33vh;
+    margin: 0 auto 40px;
+    background: #FBF8F8;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+.container-one {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    
+}
+
+.rectangle-one {
+    width: 75px;
+    height: 175px;
+    background-color: #580F6B;
+    display: inline-block;
+    margin: 0 auto 50px;
+}
+
+.rectangle-two {
+    width: 400px;
+    height: 275px;
+    background-color: green;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.circle {
+    width: 300px;
+    height: 275px;
+    background-color: #B1A8F1;
+    display: inline-block;
+    margin-left: 40px;
+    border-radius: 50%
+}
+
